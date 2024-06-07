@@ -11,4 +11,4 @@
 	}
 
 	checkDate();
-  setInterval(checkTime,3600000);
+  setInterval(checkTime,60000);
